@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lametric.library", "lametric.library\lametric.library.csproj", "{E000A3F0-2999-4672-83FF-A214ABB543BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "upnp.library", "upnp.library\upnp.library.csproj", "{1CE5C89F-2652-4174-A1E7-9E272745B7FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lametric.console", "lametric.console\lametric.console.csproj", "{7000E3E3-0ABD-43D9-BDB6-1472A05A1FCD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lametric", "lametric", "{E37BBEA0-6A66-439F-827E-027A04B0C9E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "upnp", "upnp", "{EE7274BA-A142-4825-8F5D-10F18392CAD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E000A3F0-2999-4672-83FF-A214ABB543BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E000A3F0-2999-4672-83FF-A214ABB543BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E000A3F0-2999-4672-83FF-A214ABB543BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E000A3F0-2999-4672-83FF-A214ABB543BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CE5C89F-2652-4174-A1E7-9E272745B7FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE5C89F-2652-4174-A1E7-9E272745B7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE5C89F-2652-4174-A1E7-9E272745B7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE5C89F-2652-4174-A1E7-9E272745B7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7000E3E3-0ABD-43D9-BDB6-1472A05A1FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7000E3E3-0ABD-43D9-BDB6-1472A05A1FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7000E3E3-0ABD-43D9-BDB6-1472A05A1FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7000E3E3-0ABD-43D9-BDB6-1472A05A1FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E000A3F0-2999-4672-83FF-A214ABB543BD} = {E37BBEA0-6A66-439F-827E-027A04B0C9E1}
+		{1CE5C89F-2652-4174-A1E7-9E272745B7FD} = {EE7274BA-A142-4825-8F5D-10F18392CAD5}
+		{7000E3E3-0ABD-43D9-BDB6-1472A05A1FCD} = {E37BBEA0-6A66-439F-827E-027A04B0C9E1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D8138F6-0E91-481C-A72C-75286B5A74A3}
+	EndGlobalSection
+EndGlobal
