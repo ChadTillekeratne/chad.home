@@ -1,20 +1,37 @@
 ﻿using System;
 
+using System.Configuration;
+using System.IO;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Configuration.CommandLine;
+
+
 using chad.home.ubnt.camera;
+
+
 
 namespace ubnt.camera.motionalerter
 {
     class Program
     {
+        public static IConfigurationRoot Configuration;
+
         public static UbiquitiVideoManager _ubntManager;
 
         static void Main(string[] args)
         {
-            //TODO: Load variables from config
-            _ubntManager = new UbiquitiVideoManager("home.chad.cc", "GgbpmIvEVMV1TQxm");
-            //_ubntManager = new UbiquitiVideoManager("192.168.1.100", "GgbpmIvEVMV1TQxm");
+            // Load configuration
+            var builder = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+                .AddEnvironmentVariables();
+            Configuration = builder.Build();
 
-
+            _ubntManager = new UbiquitiVideoManager(
+                    Configuration.GetSection("UbiquitiNvrServer")["Address"],
+                    Configuration.GetSection("UbiquitiNvrServer")["Key"]
+                    );
+            
             _ubntManager.OnMotionDetected += _ubntManager_OnMotionDetected;
             _ubntManager.OnMotionStopped += _ubntManager_OnMotionStopped;
 
@@ -48,7 +65,6 @@ namespace ubnt.camera.motionalerter
             Console.WriteLine("Motion Detected : {0} : {1} : {2} : {3}",e.Camera.Id,e.Camera.Name, e.Camera.LastRecordingStartTime, e.Camera.LastRecordingId);
 
             Console.ResetColor();
-            this.
         }
 
         public void GenerateAlert()
