@@ -1,0 +1,8 @@
+C:\Users\chad\source\repos\chad.home\upnp.library\bin\Debug\netcoreapp2.0\chad.home.upnp.deps.json
+C:\Users\chad\source\repos\chad.home\upnp.library\bin\Debug\netcoreapp2.0\chad.home.upnp.dll
+C:\Users\chad\source\repos\chad.home\upnp.library\bin\Debug\netcoreapp2.0\chad.home.upnp.pdb
+C:\Users\chad\source\repos\chad.home\upnp.library\obj\Debug\netcoreapp2.0\upnp.library.csproj.CoreCompileInputs.cache
+C:\Users\chad\source\repos\chad.home\upnp.library\obj\Debug\netcoreapp2.0\upnp.library.AssemblyInfoInputs.cache
+C:\Users\chad\source\repos\chad.home\upnp.library\obj\Debug\netcoreapp2.0\upnp.library.AssemblyInfo.cs
+C:\Users\chad\source\repos\chad.home\upnp.library\obj\Debug\netcoreapp2.0\chad.home.upnp.dll
+C:\Users\chad\source\repos\chad.home\upnp.library\obj\Debug\netcoreapp2.0\chad.home.upnp.pdb

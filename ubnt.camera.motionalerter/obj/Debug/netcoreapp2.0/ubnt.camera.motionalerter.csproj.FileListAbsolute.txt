@@ -1,0 +1,13 @@
+C:\Users\chad\source\repos\chad.home\ubnt.camera.motionalerter\obj\Debug\netcoreapp2.0\ubnt.camera.motionalerter.csprojResolveAssemblyReference.cache
+C:\Users\chad\source\repos\chad.home\ubnt.camera.motionalerter\obj\Debug\netcoreapp2.0\ubnt.camera.motionalerter.csproj.CoreCompileInputs.cache
+C:\Users\chad\source\repos\chad.home\ubnt.camera.motionalerter\obj\Debug\netcoreapp2.0\ubnt.camera.motionalerter.AssemblyInfoInputs.cache
+C:\Users\chad\source\repos\chad.home\ubnt.camera.motionalerter\obj\Debug\netcoreapp2.0\ubnt.camera.motionalerter.AssemblyInfo.cs
+C:\Users\chad\source\repos\chad.home\ubnt.camera.motionalerter\bin\Debug\netcoreapp2.0\chad.home.ubnt.camera.motionalerter.deps.json
+C:\Users\chad\source\repos\chad.home\ubnt.camera.motionalerter\bin\Debug\netcoreapp2.0\chad.home.ubnt.camera.motionalerter.runtimeconfig.json
+C:\Users\chad\source\repos\chad.home\ubnt.camera.motionalerter\bin\Debug\netcoreapp2.0\chad.home.ubnt.camera.motionalerter.runtimeconfig.dev.json
+C:\Users\chad\source\repos\chad.home\ubnt.camera.motionalerter\bin\Debug\netcoreapp2.0\chad.home.ubnt.camera.motionalerter.dll
+C:\Users\chad\source\repos\chad.home\ubnt.camera.motionalerter\bin\Debug\netcoreapp2.0\chad.home.ubnt.camera.motionalerter.pdb
+C:\Users\chad\source\repos\chad.home\ubnt.camera.motionalerter\bin\Debug\netcoreapp2.0\chad.home.ubnt.camera.dll
+C:\Users\chad\source\repos\chad.home\ubnt.camera.motionalerter\bin\Debug\netcoreapp2.0\chad.home.ubnt.camera.pdb
+C:\Users\chad\source\repos\chad.home\ubnt.camera.motionalerter\obj\Debug\netcoreapp2.0\chad.home.ubnt.camera.motionalerter.dll
+C:\Users\chad\source\repos\chad.home\ubnt.camera.motionalerter\obj\Debug\netcoreapp2.0\chad.home.ubnt.camera.motionalerter.pdb

@@ -3689,15 +3689,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "c:\\users\\chad\\source\\repos\\chad.home\\lametric.console\\lametric.console.csproj",
+      "projectUniqueName": "C:\\Users\\chad\\source\\repos\\chad.home\\lametric.console\\lametric.console.csproj",
       "projectName": "lametric.console",
-      "projectPath": "c:\\users\\chad\\source\\repos\\chad.home\\lametric.console\\lametric.console.csproj",
+      "projectPath": "C:\\Users\\chad\\source\\repos\\chad.home\\lametric.console\\lametric.console.csproj",
       "packagesPath": "C:\\Users\\chad\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\chad\\source\\repos\\chad.home\\lametric.console\\obj\\",
+      "outputPath": "C:\\Users\\chad\\source\\repos\\chad.home\\lametric.console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -3718,8 +3715,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "c:\\users\\chad\\source\\repos\\chad.home\\lametric.library\\lametric.library.csproj": {
-              "projectPath": "c:\\users\\chad\\source\\repos\\chad.home\\lametric.library\\lametric.library.csproj"
+            "C:\\Users\\chad\\source\\repos\\chad.home\\lametric.library\\lametric.library.csproj": {
+              "projectPath": "C:\\Users\\chad\\source\\repos\\chad.home\\lametric.library\\lametric.library.csproj"
             }
           }
         }

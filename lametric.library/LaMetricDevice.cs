@@ -12,12 +12,12 @@ namespace chad.home.lametric
 
     public class LaMetricDevice
     {
-        public string _ipAddress;
-        public string _authorizationKey;    //TODO: Make this a SecureString
+        private string _ipAddress;
+        private string _authorizationKey;    //TODO: Make this a SecureString
 
-        public int _managementPort;
+        private int _managementPort;
         
-        public string _authorizationHeader; //TODO: Make this a SecureString
+        private string _authorizationHeader; //TODO: Make this a SecureString
 
 
         public LaMetricDevice(String ipAddress, string authorizationKey, int port = 8080)

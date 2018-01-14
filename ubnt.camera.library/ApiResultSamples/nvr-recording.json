@@ -1,0 +1,23 @@
+﻿{
+  "data": [
+    {
+      "eventType": "motionRecording",
+      "startTime": 1514856468142,
+      "endTime": 1514856542141,
+      "cameras": [ "57622728a73f1c6f575da327" ],
+      "locked": false,
+      "inProgress": false,
+      "markedForDeletion": false,
+      "meta": {
+        "cameraName": "Chad 2",
+        "key": "GkeORMQR",
+        "recordingPathId": "599cca594dda5dcff9e8d2a7"
+      },
+      "_id": "5a4ae01f516a641f6aeef64a"
+    }
+  ],
+  "meta": {
+    "totalCount": 1,
+    "filteredCount": 1
+  }
+}

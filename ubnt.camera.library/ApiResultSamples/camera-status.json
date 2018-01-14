@@ -1,0 +1,57 @@
+﻿{
+  "board": {
+    "hwaddr": "44D9E7949CCB",
+    "mac": "44:D9:E7:94:9C:CB",
+    "maxTimeoutFwUpdate": 150,
+    "maxTimeoutReboot": 30,
+    "name": "UVC G3"
+  },
+  "controller": {
+    "adopted": true,
+    "controllerName": "ChadNVR",
+    "host": "192.168.1.100",
+    "port": 7442,
+    "state": "AUTHENTICATION_OK",
+    "uuid": "dee1fa6c-d93e-4163-9b05-3e9336f94963"
+  },
+  "device": {
+    "bootedAsStandalone": 0,
+    "firstTimeUse": false,
+    "language": "en-US"
+  },
+  "features": {
+    "ledIr": 1,
+    "ledStatus": 0,
+    "lineIn": 0,
+    "mic": 1,
+    "poeReset": 1,
+    "rtc": 1,
+    "sdmmc": 1,
+    "speaker": 0,
+    "vport": 0,
+    "wifi": 0
+  },
+  "fw": {
+    "protocolVer": 66,
+    "version": "UVC.v3.8.61.66.0547840.171017.1816"
+  },
+  "hostName": "Chad 1",
+  "network": {
+    "bytesRx": 2631059520,
+    "bytesTx": 4149428213,
+    "dns": "192.168.1.1",
+    "gw": "192.168.1.1",
+    "ip": "192.168.1.145",
+    "leaseTime": 86400,
+    "mask": "255.255.255.0",
+    "nic": "eth0",
+    "speed": 100
+  },
+  "request": { "remoteIp": "192.168.1.227" },
+  "system": {
+    "cpu": 0,
+    "loadavg": 0.6748,
+    "uptime": 4230801
+  },
+  "wifi": null
+}
