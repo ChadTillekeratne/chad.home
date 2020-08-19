@@ -1,9 +1,0 @@
-C:\Users\chad\source\repos\chad.home\ubnt.camera.library\bin\Debug\netcoreapp2.0\chad.home.ubnt.camera.deps.json
-C:\Users\chad\source\repos\chad.home\ubnt.camera.library\bin\Debug\netcoreapp2.0\chad.home.ubnt.camera.dll
-C:\Users\chad\source\repos\chad.home\ubnt.camera.library\obj\Debug\netcoreapp2.0\ubnt.camera.library.csprojResolveAssemblyReference.cache
-C:\Users\chad\source\repos\chad.home\ubnt.camera.library\obj\Debug\netcoreapp2.0\ubnt.camera.library.csproj.CoreCompileInputs.cache
-C:\Users\chad\source\repos\chad.home\ubnt.camera.library\obj\Debug\netcoreapp2.0\ubnt.camera.library.AssemblyInfoInputs.cache
-C:\Users\chad\source\repos\chad.home\ubnt.camera.library\obj\Debug\netcoreapp2.0\ubnt.camera.library.AssemblyInfo.cs
-C:\Users\chad\source\repos\chad.home\ubnt.camera.library\bin\Debug\netcoreapp2.0\chad.home.ubnt.camera.pdb
-C:\Users\chad\source\repos\chad.home\ubnt.camera.library\obj\Debug\netcoreapp2.0\chad.home.ubnt.camera.dll
-C:\Users\chad\source\repos\chad.home\ubnt.camera.library\obj\Debug\netcoreapp2.0\chad.home.ubnt.camera.pdb

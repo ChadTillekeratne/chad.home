@@ -1,9 +1,0 @@
-c:\users\chad\source\repos\chad.home\lametric.library\bin\Debug\netcoreapp2.0\chad.home.lametric.deps.json
-c:\users\chad\source\repos\chad.home\lametric.library\bin\Debug\netcoreapp2.0\chad.home.lametric.dll
-c:\users\chad\source\repos\chad.home\lametric.library\obj\Debug\netcoreapp2.0\lametric.library.csprojResolveAssemblyReference.cache
-c:\users\chad\source\repos\chad.home\lametric.library\obj\Debug\netcoreapp2.0\lametric.library.csproj.CoreCompileInputs.cache
-c:\users\chad\source\repos\chad.home\lametric.library\obj\Debug\netcoreapp2.0\lametric.library.AssemblyInfoInputs.cache
-c:\users\chad\source\repos\chad.home\lametric.library\obj\Debug\netcoreapp2.0\lametric.library.AssemblyInfo.cs
-c:\users\chad\source\repos\chad.home\lametric.library\bin\Debug\netcoreapp2.0\chad.home.lametric.pdb
-c:\users\chad\source\repos\chad.home\lametric.library\obj\Debug\netcoreapp2.0\chad.home.lametric.dll
-c:\users\chad\source\repos\chad.home\lametric.library\obj\Debug\netcoreapp2.0\chad.home.lametric.pdb
